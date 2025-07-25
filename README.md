@@ -1,8 +1,19 @@
-# AICTE-edunet
-EV-vechicle prediction
-project Description
-This internship project focuses on:-
+# AICTE_Summer_Internship_-EDUNET_FOUNDATION-
+## 🔌 EV Charging Demand Prediction
 
-EV (Electric Vehicle) Charging Demand Prediction: This component focuses on forecasting electric vehicle charging demand based on historical data and external factors and location.
+**Forecast EV charging demand** using machine learning to optimize station use and support sustainable mobility.
 
-Together, these projects explore the use of machine learning to address key challenges in environmental monitoring, resource management, and sustainable mobility.
+### Objective
+- Predict future charging load from historical session data, weather, calendar, and location info.
+
+### Approach
+1. **Data**: Historical charging logs + external factors (weather, holidays, time of day).  
+2. **Models**: ARIMA/Prophet, Random Forest/XGBoost, LSTM.  
+3. **Metrics**: RMSE, MAE, R².  
+4. **Visualization**: Demand heatmaps & time‑series plots.
+
+### Impact
+- Improves station planning and load balancing  
+- Reduces wait times and energy waste  
+- Enables smarter, greener cities
+
