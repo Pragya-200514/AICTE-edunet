@@ -1,11 +1,7 @@
 # AICTE-edunet
 EV-vechicle prediction
 project Description
-This internship project focuses on three distinct but interrelated machine learning applications:
-
-Fire Classification using MODIS Data: The goal is to develop a machine learning model that can classify fire events by analyzing MODIS (Moderate Resolution Imaging Spectroradiometer) satellite data. The model will identify and categorize wildfire occurrences, enabling better monitoring and management of fire-related events across different regions.
-
-Smart Irrigation System: In this segment, we aim to build a predictive model for efficient irrigation management. By leveraging environmental data, the model will optimize water usage in agricultural fields, ensuring sustainability while reducing wastage.
+This internship project focuses on:-
 
 EV (Electric Vehicle) Charging Demand Prediction: This component focuses on forecasting electric vehicle charging demand based on historical data and external factors and location.
 
